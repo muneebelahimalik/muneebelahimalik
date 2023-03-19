@@ -1,3 +1,5 @@
+  ![linkedin](https://user-images.githubusercontent.com/59524535/226183987-fe59dddd-c6b8-4e9e-b459-5e1eee492840.png)
+
 - 👋 Hi, I’m @muneeebelahi
 - 👀 I’m interested in Machine learning and embedded systems.
 - 🌱 I’m currently learning deep learning
