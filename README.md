@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Muneeb Elahi Malik
-- 🎓 Currently doing Bachelor's in Electrical Engineering at the National University of Sciences and Technology, Islamabad, Pakistan.
-- ⭐ I have worked in the fields of Machine learning, Embedded systems and Robotics.
-- 💻 I am currently researching on Unsupervised Machine Learning applications in Remote Sensing
+- 🎓 I am an Electrical Engineering graduate from the National University of Sciences and Technology (NUST), H-12, ISB PK.
+- ⭐ I have worked in the fields of Machine learning, Embedded systems, Robotics and Remote Sensing.
+- 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
