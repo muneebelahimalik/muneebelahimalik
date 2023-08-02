@@ -5,7 +5,7 @@
 - ⭐ I have worked in the fields of Machine learning, Robotics, Embedded systems and Hardware Security.
 - 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
 
-## Checkout my portfolio [Muneeb Elahi Malik](muneebelahimali.github.io)
+<h3 Checkout my portfolio [Muneeb Elahi Malik](muneebelahimali.github.io)</h3>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
