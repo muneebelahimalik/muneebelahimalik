@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Muneeb Elahi Malik
 - 🎓 I am an Electrical Engineering graduate from the National University of Sciences and Technology (NUST), H-12, ISB PK.
-- ⭐ I have worked in the fields of Machine learning, Robotics, Embedded systems, and Hardware Design.
+- ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
 - 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
 
 #### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io)
