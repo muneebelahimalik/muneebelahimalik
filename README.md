@@ -5,7 +5,7 @@
  - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
  - 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
  - I am presently engaged in the domain of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 ### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io)
  
 <h3 align="left">Connect with me:</h3>
