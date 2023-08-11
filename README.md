@@ -1,11 +1,12 @@
 # Welcome
 
-- 👋 Hi, I’m Muneeb Elahi Malik
-- 🎓 I am an Electrical Engineering graduate from the National University of Sciences and Technology (NUST), H-12, ISB PK.
-- ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
-- 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
+ - 👋 Hi, I’m Muneeb Elahi Malik
+ - 🎓 I am an Electrical Engineering graduate from the National University of Sciences and Technology (NUST), H-12, ISB PK.
+ - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
+ - 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
+ - I am presently engaged in the field of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
 
-#### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io)
+### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
