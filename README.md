@@ -3,13 +3,11 @@
  - 👋 I’m Muneeb Elahi Malik
  - 🎓 I recently graduated as an Electrical Engineer from the National University of Sciences and Technology (NUST).
  - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
- - 💻 I am an aspiring researcher driven by curiosity, continuously seeking new knowledge and breakthroughs in the above fields of       interest.
- - I am presently engaged in the domain of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
-
-### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io)
+ - 💻 I am presently engaged in the domain of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io) 
+## <p align="left">
+<b>Connect with me:</b>
 <a href="https://twitter.com/muneebelahii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneebelahii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muneeb-elahi-malik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muneeb-elahi-malik-559293176/" height="30" width="40" /></a>
 <a href="https://instagram.com/muneeb.elahi.malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muneeb.elahi.malik" height="30" width="40" /></a>
@@ -25,4 +23,4 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muneebelahimalik&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="center">
-<img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width ="300"></b>
+<img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" width ="250"></b>
