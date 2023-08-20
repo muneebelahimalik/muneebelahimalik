@@ -1,6 +1,4 @@
-# <Hello World<Hello World>>
-
- - 👋 I’m Muneeb Elahi Malik
+# Hey there! I'm Muneeb Elahi Malik
  - 🎓 I recently graduated as an Electrical Engineer from the National University of Sciences and Technology (NUST).
  - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
  - 💻 I am presently engaged in the domain of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
