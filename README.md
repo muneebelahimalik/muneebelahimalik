@@ -1,10 +1,11 @@
 # Hey there! 
  - I'm Muneeb Elahi Malik
  - 🎓 I recently graduated as an Electrical Engineer from the National University of Sciences and Technology (NUST).
+<!--
  - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
  - 💻 I am presently engaged in the domain of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
 ## <p align="left">
-<!--
+
 ### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io) 
 <h3> Connect with me:</h3>
 <a href="https://twitter.com/muneebelahii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneebelahii" height="30" width="40" /></a>
