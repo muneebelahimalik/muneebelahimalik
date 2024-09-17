@@ -1,6 +1,7 @@
 # Hey there! 
  - I'm Muneeb Elahi Malik
- - 🎓 I recently graduated as an Electrical Engineer from the National University of Sciences and Technology (NUST).
+ - 🎓 Bachelor Electrical Engineering (2023) NUST, ISB PK
+ - PhD Engineering UGA,GA ,USA (Ongoing)
 <!--
  - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, and Hardware Design.
  - 💻 I am presently engaged in the domain of Trustworthy AI, focusing on the design of watermarking algorithms for Large Language Models.
