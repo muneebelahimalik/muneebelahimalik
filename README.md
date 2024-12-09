@@ -7,7 +7,7 @@
  - 💻 I am presently engaged in the design of high-precision laser weeder robots.
 ## <p align="left">
 
-### Check out my portfolio: [Muneeb Elahi Malik](https://muneebelahimalik.github.io) 
+### Check out my Website: [Muneeb Elahi Malik](https://muneebelahimalik.github.io) 
 <h3> Connect with me:</h3>
 <a href="https://twitter.com/muneebelahii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneebelahii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muneeb-elahi-malik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muneeb-elahi-malik-559293176/" height="30" width="40" /></a>
