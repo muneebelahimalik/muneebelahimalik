@@ -2,6 +2,7 @@
  - I'm Muneeb Elahi Malik
  - 🎓 Bachelor Electrical Engineering (2023) NUST, ISB PK
  - PhD Electrical and Computer Engineering (ECE) @ UGA, GA 🇺🇸 (Ongoing)
+
 <!--
 
  - ⭐ I have worked in the fields of Machine learning, Robotics, Remote sensing, Trustworthy AI and Hardware Design.
